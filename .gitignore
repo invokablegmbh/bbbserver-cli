@@ -1,6 +1,5 @@
 # Build outputs
 /bin/
-/dist/
 
 # Generated embedded Postman collection source
 /collection.json
