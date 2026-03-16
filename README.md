@@ -6,11 +6,11 @@
 
 Download the pre-built binary for your platform from the [`dist/`](dist/) folder in this repository:
 
-| Platform | Architecture | File |
-|----------|-------------|------|
-| Linux | x86_64 (amd64) | `bbbserver-cli-linux-amd64` |
-| Linux | ARM64 | `bbbserver-cli-linux-arm64` |
-| Windows | x86_64 (amd64) | `bbbserver-cli-windows-amd64.exe` |
+| Platform | Architecture | Download |
+|----------|-------------|----------|
+| Linux | x86_64 (amd64) | [bbbserver-cli-linux-amd64](https://github.com/invokablegmbh/bbbserver-cli/raw/master/dist/bbbserver-cli-linux-amd64) |
+| Linux | ARM64 | [bbbserver-cli-linux-arm64](https://github.com/invokablegmbh/bbbserver-cli/raw/master/dist/bbbserver-cli-linux-arm64) |
+| Windows | x86_64 (amd64) | [bbbserver-cli-windows-amd64.exe](https://github.com/invokablegmbh/bbbserver-cli/raw/master/dist/bbbserver-cli-windows-amd64.exe) |
 
 No installation required — the download is a standalone binary. Just make it executable and run it:
 
